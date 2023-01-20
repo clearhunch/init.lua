@@ -1,0 +1,2 @@
+require("edge")
+print("Hello")
